@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 20px;
+}
+body{
+    background-color:rgb(17, 139, 201);
+}
+
+#about{
+    background-color:rgb(97, 17, 201);
+}
+
+header{
+    color :rgb(130, 18, 236);
+    font-family: verdana;
+
+
+}
